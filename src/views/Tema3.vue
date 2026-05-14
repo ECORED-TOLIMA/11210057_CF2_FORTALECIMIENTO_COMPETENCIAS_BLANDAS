@@ -116,7 +116,7 @@
             .row.justify-content-center.mt-4.text-white.bg-base
               .tarjeta.h-100
                 TarjetaAudio.color-acento-botones.bg-base.mb-3(
-                texto="Pódcast Instruccional"
+                texto="Competencias blandas para el trabajo colaborativo"
                 :audio="require('@/assets/componentes/audios/audio-ej.mp3')"
               )
 
